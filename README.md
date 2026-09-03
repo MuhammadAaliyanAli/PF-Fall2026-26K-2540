@@ -43,13 +43,12 @@ I am a BS Data Science student at FAST-NUCES.
 - [ ] Learn more Git commands
 - [ ] Complete Programming Fundamentals lab
 
-### Git
+### Git Commands
 
-Use `git status` to check the current status.
+I can use `git status` to check the status of my repository.
 
-Three useful Git commands:
-
-```text
+```
 git status
 git add .
 git commit -m "My commit"
+```
