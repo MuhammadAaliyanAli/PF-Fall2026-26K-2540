@@ -52,3 +52,7 @@ git status
 git add .
 git commit -m "My commit"
 ```
+
+### Image
+![GitHub Logo](https://github.com/user-attachments/assets/f24397b3-c37c-4e16-888c-b724752767a3)
+
